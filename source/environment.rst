@@ -16,12 +16,12 @@
 
 开发的 Python 项目多了以后，便经常会遇到依赖冲突的问题。项目 1 用了 A 版本的 Python 库 package，项目 2 用了 B 版本的 Python 库 package，那么如果都用系统版本的 Python 环境，是无法同时安装同一 Python 库的两个版本。因而，virtualenv 和 Python 3 自带的 venv 模块便能发挥左右。你可以通过执行如下的命令建立虚拟环境，并进行激活，从而拥有一个干净的 Python 依赖：
 
-```bash
-$ python3 -m venv venv
-$ source venv/bin/activate
+.. code-block:: bash
 
-$ pip install virtualenv
-$ virtualenv 
-```
+    $ python3 -m venv venv
+    $ source venv/bin/activate
+
+    $ pip install virtualenv
+    $ virtualenv
 
 此外，Anaconda 的 Python 版本也自带了虚拟环境管理工具 conda，Pyenv 则是一个能够建立不同 Python 版本虚拟环境的一个工具，而在 Python 包依赖及其管理上，还有很多知名的工具值得了解：propetry。Python 在包及其依赖上的管理实在过于宽泛，导致了诸多不方便和不一致。但我们还有未来不是吗？
