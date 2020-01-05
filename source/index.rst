@@ -12,70 +12,70 @@ K 神全名 Kenneth Reitz ，被许多人称为社区英雄。只要是英雄，
 
 让我们开始指南吧！
 
-『万事开头难』，但安装 Python 一点都不难。
+**『万事开头难』，但安装 Python 一点都不难。**
 
 .. toctree::
    :maxdepth: 2
 
    install.rst
 
-『工欲善其事，必先利其器』，选择一个合适的工具开始编写优雅的 Python 代码吧。
+**『工欲善其事，必先利其器』，选择一个合适的工具再开始。**
 
 .. toctree::
    :maxdepth: 2
 
    coding_tools.rst
 
-试着在多个 Python 开发环境中无缝切换。
+**试着在多个 Python 开发环境中无缝切换。**
 
 .. toctree::
    :maxdepth: 2
 
    environment.rst
 
-选择一个好用的框架，避免重复造轮子。
+**选择一个好用的框架，避免重复造轮子。**
 
 .. toctree::
    :maxdepth: 2
 
    frameworks.rst
 
-吃饭，睡觉，阅读文档。
+**吃饭，睡觉，阅读文档。**
 
 .. toctree::
    :maxdepth: 2
 
    documents.rst
 
-没有规矩不成方圆，来干了这份完美的 Python 编码规范。
+**没有规矩不成方圆，来干了这份完美的 Python 编码规范。**
 
 .. toctree::
    :maxdepth: 2
 
    styleguide.rst
 
-快来护驾，总有小人想害朕。保护好你的源代码。
+**用绝对防御保护好你的源代码。**
 
 .. toctree::
    :maxdepth: 2
 
    protectpythoncode.rst
 
-Python 太慢，也可以跑过兔子。
+**Python 太慢，也可以跑过兔子。**
 
 .. toctree::
    :maxdepth: 2
 
    speedup.rst
 
-高级编程，aka: High Level Programing。
+**高级编程，aka: High Level Programing。**
 
 .. toctree::
    :maxdepth: 2
 
    highlevel.rst
 
-未完待续。。。
+**未完待续。**
 
 .. toctree::
    :maxdepth: 2

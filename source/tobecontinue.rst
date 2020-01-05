@@ -9,3 +9,13 @@
 
 - 优秀的 Python 开源项目
 
+- 优秀的 Python 开发人员
+
+- 个人 Python 风格指南
+
+- 详细的 Python 加速方案
+
+- 详细的 Python 代码加密方案
+
+- 详细的 Python 高级编程概念解释说明
+
