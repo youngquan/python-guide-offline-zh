@@ -8,11 +8,23 @@ K 神全名 Kenneth Reitz ，被许多人称为社区英雄。只要是英雄，
 
 这篇指南主要针对无网的工作环境，包含了以下几个方面：
 
-- Python 安装
-- IDE 的选择
-- Python 包的管理
-- Python 框架
-- Python 文档
+- Python 安装：**『万事开头难』，但安装 Python 一点都不难。**
+
+- 代码编写工具：**『工欲善其事，必先利其器』，选择一个合适的工具再开始。**
+
+- 开发环境管理：**试着在多个 Python 开发环境中无缝切换。**
+
+- Python 框架：**选择一个好用的框架，避免重复造轮子。**
+
+- Python 文档资料：**吃饭，睡觉，阅读文档。**
+
+- Python 代码编程规范：**没有规矩不成方圆，来干了这份完美的 Python 编码规范。**
+
+- 保护 Python 代码：**用绝对防御保护好你的源代码。**
+
+- 加速 Python 代码：**Python 太慢，也可以跑过兔子。**
+
+- Python 高级编程：**高级编程，aka: High Level Programing。**
 
 本指南将持续不断地更新与完善，欢迎大家来 Pull Requests，共同维护。
 
@@ -22,11 +34,23 @@ K 神全名 Kenneth Reitz ，被许多人称为社区英雄。只要是英雄，
 
 ## 补充项
 
-当前以下内容需要补充：
+以下内容需要补充：
 
-- Python 代码加密
-- Python 源码编译发布
-- Python 源码安装
+- Python 框架介绍，包括命令行、GUI等
+
+- Python 源码编译为 rpm、deb 包
+
+- 优秀的 Python 开源项目
+
+- 优秀的 Python 开发人员
+
+- 个人 Python 风格指南
+
+- 详细的 Python 加速方案
+
+- 详细的 Python 代码加密方案
+
+- 详细的 Python 高级编程概念解释说明
 
 ## 贡献指南
 
@@ -35,4 +59,3 @@ K 神全名 Kenneth Reitz ，被许多人称为社区英雄。只要是英雄，
 3.  打开命令行，运行 `pip install -r requirements.txt` 安装依赖
 4. 打开命令行，运行 `make html` ; 或者（针对Windows）运行 `makehtml.bat`
 5. 上述步骤自动在根目录下生成build文件夹，打开 `./build/html/index.html` 即可浏览文档
-
